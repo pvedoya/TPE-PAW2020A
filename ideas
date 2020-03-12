@@ -1,0 +1,42 @@
+# Venta de comidas caseras (idea de pedrito)
+TODO: rellenar
+
+# Control de stock
+Registro de inventario con disponibilidad variable orientado a eventos.
+Verificar que haya inventario para cumplir con los requisitos de cierto evento para una fecha determinada. Y en el caso de ser posible, confirmar el evento y reservar el inventario a usar en esa fecha para considerar en el momento de la creación de otro evento.
+Funcionalidad para aumentar el stock de inventario luego de una fecha determinada. De esta forma cubrir el ingreso de inventario por parte de proveedores o compras individuales.
+Posibilidad de registrar flujos recurrentes para aquellas entradas o salidas de stock que suceden en periodos fijos.
+Distinguir inventario que se consume y los que se recuperan luego de finalizar el evento.
+Funcionalidad para encontrar fecha en la que se cumplan requisitos de inventario. Por ejemplo, necesito alquilar 2 mesas y 8 sillas lo antes posible y me quiero fijar cual es el fin de semana más próximo o dentro de rango de fechas en la que estos muebles están disponibles.
+
+# Proyectos colaborativos
+Aplicación para encontrar un compañero para resolver un proyecto personal. Los proyectos pueden ser del area de informatica o multidisciplina.
+Funcionalidad de catálogo de proyectos en los que se requiere ayuda.
+Score o 'karma' segun la colaboración que diste.
+Algún tipo de historial de proyectos que completaste para usar de portfolio.
+
+# Encontrar tripulantes de velero
+Red social para encontrar gente para tripular veleros o encontrar velero para tripular. Ya sea para regata o travesia.
+Función de acordar una reunión. Soporte de curriculum? 
+Funcionalidad para limitar la búsqueda a un rol específico. Por ejemplo, timonel.
+
+# Avistamiento de animales
+Aplicación colaborativa para llevar un registro de avistamiento de animales. Por ejemplo ballenas.
+Posibilidad de subir datos acerca del animal, ubicacion y, capaz, anécdota de la experiencia. 
+
+# Intercambio de favores digitales
+Página como las de freelancing pero en lugar de trabajar a cambio de plata sea a cambio de trabajo en otra área. Por ejemplo, un diseñador necesita un programador y viceversa. 
+Que se pueda intercambiar una moneda virtual en cambio de trabajo para poder valorar cada trabajo según su dificultad.
+
+# Adopción de mascotas
+Página con catálogo para adoptar mascotas, y capaz dar en adopción?
+
+# Ideas raras. Encontrar alguna comunidad rara y desarrollar algo que les sirva
+La gente que cree que la tierra es plana. Gente que hace cosplay. Gente que va a convenciones de psicodélicos o ayahuasca. Gente que tiene arañas de mascotas.
+
+# Red social para ciegos
+Podrían ser posts de solo audio. Simular el 'scrolling' de una red social con gente hablando a la vez desde direcciones distintas (audio 3d) con la posibilidad de orientar la atención a una.
+
+# Red social de apicultores
+Encontrar algo para ayudar a los apicultores...
+
