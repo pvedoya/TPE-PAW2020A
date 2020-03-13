@@ -1,5 +1,5 @@
 # Venta de comidas caseras (idea de pedrito)
-TODO: rellenar
+La idea es hacer una aplicacion estilo ebay y mercadolibre para vender y comprar comida de usuario a usuario, su nombre seria FoodIt. Los que venden se encargarian de elegir que platos venden con que ingredientes y si hacen servicio de entrega a domicilio, y los que compran eligen que ingredientes quieren en su plato/cuantos platos y hacen el pedido. A futuro podriamos expandir con servicios como catering a domicilio, comprarle recetas al vendedor, suscribirse a un vendedor para poder darle recetas y que las haga, etc...
 
 # Control de stock
 Registro de inventario con disponibilidad variable orientado a eventos.
