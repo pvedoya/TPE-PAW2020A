@@ -9,18 +9,17 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
 import org.springframework.web.servlet.view.JstlView;
 
 @EnableWebMvc
-@ComponentScan({ "ar.edu.itba.paw.webapp.controller" })
+@ComponentScan({ "ar.edu.itba.paw.webapp.controller",
+        "ar.edu.itba.paw.services",
+        "ar.edu.itba.paw.persistance" })
 @Configuration
 public class WebConfig {
-	
-	@Bean
-	public ViewResolver viewResolver() {
-		System.out.println("HOLA");
-
-		final InternalResourceViewResolver viewResolver = new InternalResourceViewResolver();
-		viewResolver.setViewClass(JstlView.class);
-		viewResolver.setPrefix("/WEB-INF/jsp/");
-		viewResolver.setSuffix(".jsp");
-		return viewResolver;
-	}
+    @Bean
+    public ViewResolver viewResolver() {
+        final InternalResourceViewResolver viewResolver = new InternalResourceViewResolver();
+        viewResolver.setViewClass(JstlView.class);
+        viewResolver.setPrefix("/WEB-INF/jsp/");
+        viewResolver.setSuffix(".jsp");
+        return viewResolver;
+    }
 }
